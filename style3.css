@@ -1,0 +1,28 @@
+#Menu{
+    margin-left: 10%;
+}
+
+.menuBorder{
+    background: rgb(73, 116, 209);
+    border: solid 3px black;
+    color: white;
+    width: 200px;
+    padding: 2px;
+    font-size: 1.5em
+}
+
+.menu{
+    border: solid 1px black;
+    margin-left: 1%;
+    margin-top: 5%;
+    padding: 5%;
+
+}
+
+.bottomMenu{
+    list-style-type: none;
+    color: black;
+    background: rgb(156, 172, 207);
+    margin-left: 10%;
+    padding: 1%;
+}
