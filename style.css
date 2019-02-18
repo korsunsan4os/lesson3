@@ -1,0 +1,62 @@
+.border{
+    align-content: center;
+    margin: 3% 10%;
+    width: 366px;
+    padding: 3px;
+    background: darkgray;
+    border: solid 2px black;
+}
+
+#Month{
+    padding: 4px;
+    background: gainsboro;
+    border: solid 1px black;
+    text-align: center;
+}
+
+.tabl{
+    border: solid 1px black;
+    height: 307px;
+}
+
+.dayTitle{
+    background: rgb(196, 176, 176);
+    border: solid 1px black;
+    width: 50px;
+    text-align: center;
+    font-weight: 600;
+    float: left;
+    padding-top: 5%;
+    padding-bottom: 5%
+}
+
+.day{
+    background: rgb(241, 241, 241);
+    border: solid 1px black;
+    width: 50px;
+    text-align: center;
+    float: left;
+    padding-top: 3%;
+    padding-bottom: 3%
+}
+
+.freeDay{
+    background: rgb(179, 93, 93);
+    border: solid 1px black;
+    width: 50px;
+    text-align: center;
+    float: left;
+    padding-top: 3%;
+    padding-bottom: 3%
+}
+
+.otherDay{
+    background: rgb(131, 131, 131);
+    border: solid 1px black;
+    width: 50px;
+    text-align: center;
+    float: left;
+    padding-top: 3%;
+    padding-bottom: 3%
+}
+
